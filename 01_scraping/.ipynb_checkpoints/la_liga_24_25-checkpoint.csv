@@ -1,0 +1,382 @@
+Wk,Day,Date,Time,Venue,Home,Away
+1.0,Thu,2024-08-15,19:00,San Mamés,Athletic Club,Getafe
+1.0,Thu,2024-08-15,21:30,Estadio Benito Villamarín,Betis,Girona
+1.0,Fri,2024-08-16,19:00,Estadio Abanca Balaídos,Celta Vigo,Alavés
+1.0,Fri,2024-08-16,20:30,Estadio de Gran Canaria,Las Palmas,Sevilla
+1.0,Sat,2024-08-17,19:00,Estadio El Sadar,Osasuna,Leganés
+1.0,Sat,2024-08-17,21:30,Estadio de Mestalla,Valencia,Barcelona
+1.0,Sun,2024-08-18,19:00,Reale Arena,Real Sociedad,Rayo Vallecano
+1.0,Sun,2024-08-18,21:30,Estadi Mallorca Son Moix,Mallorca,Real Madrid
+1.0,Mon,2024-08-19,19:00,Estadio Municipal José Zorrilla,Valladolid,Espanyol
+1.0,Mon,2024-08-19,21:30,Estadio de la Cerámica,Villarreal,Atlético Madrid
+,,,,,,
+2.0,Fri,2024-08-23,19:00,Estadio Abanca Balaídos,Celta Vigo,Valencia
+2.0,Fri,2024-08-23,21:30,Estadio Ramón Sánchez Pizjuán,Sevilla,Villarreal
+2.0,Sat,2024-08-24,17:00,Estadio El Sadar,Osasuna,Mallorca
+2.0,Sat,2024-08-24,19:00,Estadi Olímpic Lluís Companys,Barcelona,Athletic Club
+2.0,Sat,2024-08-24,21:30,RCDE Stadium,Espanyol,Real Sociedad
+2.0,Sat,2024-08-24,21:30,Coliseum Alfonso Pérez,Getafe,Rayo Vallecano
+2.0,Sun,2024-08-25,17:00,Estadio Santiago Bernabéu,Real Madrid,Valladolid
+2.0,Sun,2024-08-25,19:00,Estadio Municipal de Butarque,Leganés,Las Palmas
+2.0,Sun,2024-08-25,19:15,Estadio de Mendizorroza,Alavés,Betis
+2.0,Sun,2024-08-25,21:30,Riyadh Air Metropolitan Stadium,Atlético Madrid,Girona
+3.0,Mon,2024-08-26,21:30,Estadio de la Cerámica,Villarreal,Celta Vigo
+3.0,Tue,2024-08-27,19:00,Estadi Mallorca Son Moix,Mallorca,Sevilla
+3.0,Tue,2024-08-27,21:30,Estadio del Rayo Vallecano,Rayo Vallecano,Barcelona
+3.0,Wed,2024-08-28,19:00,Estadio Municipal José Zorrilla,Valladolid,Leganés
+3.0,Wed,2024-08-28,19:00,San Mamés,Athletic Club,Valencia
+3.0,Wed,2024-08-28,21:30,Reale Arena,Real Sociedad,Alavés
+3.0,Wed,2024-08-28,21:30,Riyadh Air Metropolitan Stadium,Atlético Madrid,Espanyol
+3.0,Thu,2024-08-29,19:00,Estadi Municipal de Montilivi,Girona,Osasuna
+3.0,Thu,2024-08-29,20:30,Estadio de Gran Canaria,Las Palmas,Real Madrid
+4.0,Sat,2024-08-31,17:00,Estadi Olímpic Lluís Companys,Barcelona,Valladolid
+4.0,Sat,2024-08-31,19:00,San Mamés,Athletic Club,Atlético Madrid
+4.0,Sat,2024-08-31,19:15,RCDE Stadium,Espanyol,Rayo Vallecano
+4.0,Sat,2024-08-31,21:30,Estadio Municipal de Butarque,Leganés,Mallorca
+4.0,Sat,2024-08-31,21:30,Estadio de Mestalla,Valencia,Villarreal
+4.0,Sun,2024-09-01,17:00,Estadio de Mendizorroza,Alavés,Las Palmas
+4.0,Sun,2024-09-01,17:00,Estadio El Sadar,Osasuna,Celta Vigo
+4.0,Sun,2024-09-01,19:00,Estadio Ramón Sánchez Pizjuán,Sevilla,Girona
+4.0,Sun,2024-09-01,19:15,Coliseum Alfonso Pérez,Getafe,Real Sociedad
+4.0,Sun,2024-09-01,21:30,Estadio Santiago Bernabéu,Real Madrid,Betis
+5.0,Fri,2024-09-13,21:00,Estadio Benito Villamarín,Betis,Leganés
+5.0,Sat,2024-09-14,14:00,Estadi Mallorca Son Moix,Mallorca,Villarreal
+5.0,Sat,2024-09-14,16:15,RCDE Stadium,Espanyol,Alavés
+5.0,Sat,2024-09-14,18:30,Estadio Ramón Sánchez Pizjuán,Sevilla,Getafe
+5.0,Sat,2024-09-14,21:00,Reale Arena,Real Sociedad,Real Madrid
+5.0,Sun,2024-09-15,14:00,Estadio Abanca Balaídos,Celta Vigo,Valladolid
+5.0,Sun,2024-09-15,16:15,Estadi Municipal de Montilivi,Girona,Barcelona
+5.0,Sun,2024-09-15,17:30,Estadio de Gran Canaria,Las Palmas,Athletic Club
+5.0,Sun,2024-09-15,21:00,Riyadh Air Metropolitan Stadium,Atlético Madrid,Valencia
+5.0,Mon,2024-09-16,21:00,Estadio del Rayo Vallecano,Rayo Vallecano,Osasuna
+7.0,Tue,2024-09-17,19:00,Estadi Mallorca Son Moix,Mallorca,Real Sociedad
+3.0,Wed,2024-09-18,19:00,Estadio Benito Villamarín,Betis,Getafe
+7.0,Thu,2024-09-19,19:00,Estadio Municipal de Butarque,Leganés,Athletic Club
+6.0,Fri,2024-09-20,21:00,Estadio de Mendizorroza,Alavés,Sevilla
+6.0,Sat,2024-09-21,14:00,Estadio Municipal José Zorrilla,Valladolid,Real Sociedad
+6.0,Sat,2024-09-21,16:15,Estadio El Sadar,Osasuna,Las Palmas
+6.0,Sat,2024-09-21,18:30,Estadio de Mestalla,Valencia,Girona
+6.0,Sat,2024-09-21,21:00,Estadio Santiago Bernabéu,Real Madrid,Espanyol
+6.0,Sun,2024-09-22,14:00,Coliseum Alfonso Pérez,Getafe,Leganés
+6.0,Sun,2024-09-22,16:15,San Mamés,Athletic Club,Celta Vigo
+6.0,Sun,2024-09-22,18:30,Estadio de la Cerámica,Villarreal,Barcelona
+6.0,Sun,2024-09-22,21:00,Estadio del Rayo Vallecano,Rayo Vallecano,Atlético Madrid
+6.0,Mon,2024-09-23,21:00,Estadio Benito Villamarín,Betis,Mallorca
+7.0,Tue,2024-09-24,19:00,Estadio Ramón Sánchez Pizjuán,Sevilla,Valladolid
+7.0,Tue,2024-09-24,19:00,Estadio de Mestalla,Valencia,Osasuna
+7.0,Tue,2024-09-24,21:00,Estadio Santiago Bernabéu,Real Madrid,Alavés
+7.0,Wed,2024-09-25,19:00,Estadi Municipal de Montilivi,Girona,Rayo Vallecano
+7.0,Wed,2024-09-25,21:00,Estadi Olímpic Lluís Companys,Barcelona,Getafe
+7.0,Thu,2024-09-26,18:00,Estadio de Gran Canaria,Las Palmas,Betis
+7.0,Thu,2024-09-26,19:00,RCDE Stadium,Espanyol,Villarreal
+7.0,Thu,2024-09-26,21:00,Estadio Abanca Balaídos,Celta Vigo,Atlético Madrid
+8.0,Fri,2024-09-27,21:00,Estadio Municipal José Zorrilla,Valladolid,Mallorca
+8.0,Sat,2024-09-28,14:00,Coliseum Alfonso Pérez,Getafe,Alavés
+8.0,Sat,2024-09-28,16:15,Estadio del Rayo Vallecano,Rayo Vallecano,Leganés
+8.0,Sat,2024-09-28,18:30,Reale Arena,Real Sociedad,Valencia
+8.0,Sat,2024-09-28,21:00,Estadio El Sadar,Osasuna,Barcelona
+8.0,Sun,2024-09-29,14:00,Estadio Abanca Balaídos,Celta Vigo,Girona
+8.0,Sun,2024-09-29,16:15,San Mamés,Athletic Club,Sevilla
+8.0,Sun,2024-09-29,18:30,Estadio Benito Villamarín,Betis,Espanyol
+8.0,Sun,2024-09-29,21:00,Riyadh Air Metropolitan Stadium,Atlético Madrid,Real Madrid
+8.0,Mon,2024-09-30,21:00,Estadio de la Cerámica,Villarreal,Las Palmas
+9.0,Fri,2024-10-04,21:00,Estadio Municipal de Butarque,Leganés,Valencia
+9.0,Sat,2024-10-05,14:00,RCDE Stadium,Espanyol,Mallorca
+9.0,Sat,2024-10-05,16:15,Coliseum Alfonso Pérez,Getafe,Osasuna
+9.0,Sat,2024-10-05,17:30,Estadio de Gran Canaria,Las Palmas,Celta Vigo
+9.0,Sat,2024-10-05,18:30,Estadio Municipal José Zorrilla,Valladolid,Rayo Vallecano
+9.0,Sat,2024-10-05,21:00,Estadio Santiago Bernabéu,Real Madrid,Villarreal
+9.0,Sun,2024-10-06,14:00,Estadi Municipal de Montilivi,Girona,Athletic Club
+9.0,Sun,2024-10-06,16:15,Estadio de Mendizorroza,Alavés,Barcelona
+9.0,Sun,2024-10-06,18:30,Estadio Ramón Sánchez Pizjuán,Sevilla,Betis
+9.0,Sun,2024-10-06,21:00,Reale Arena,Real Sociedad,Atlético Madrid
+10.0,Fri,2024-10-18,21:00,Estadio de Mendizorroza,Alavés,Valladolid
+10.0,Sat,2024-10-19,14:00,San Mamés,Athletic Club,Espanyol
+10.0,Sat,2024-10-19,16:15,Estadio El Sadar,Osasuna,Betis
+10.0,Sat,2024-10-19,18:30,Estadi Municipal de Montilivi,Girona,Real Sociedad
+10.0,Sat,2024-10-19,21:00,Estadio Abanca Balaídos,Celta Vigo,Real Madrid
+10.0,Sun,2024-10-20,14:00,Estadi Mallorca Son Moix,Mallorca,Rayo Vallecano
+10.0,Sun,2024-10-20,16:15,Riyadh Air Metropolitan Stadium,Atlético Madrid,Leganés
+10.0,Sun,2024-10-20,18:30,Estadio de la Cerámica,Villarreal,Getafe
+10.0,Sun,2024-10-20,21:00,Estadi Olímpic Lluís Companys,Barcelona,Sevilla
+10.0,Mon,2024-10-21,21:00,Estadio de Mestalla,Valencia,Las Palmas
+11.0,Fri,2024-10-25,21:00,RCDE Stadium,Espanyol,Sevilla
+11.0,Sat,2024-10-26,14:00,Estadio Municipal José Zorrilla,Valladolid,Villarreal
+11.0,Sat,2024-10-26,16:15,Estadio del Rayo Vallecano,Rayo Vallecano,Alavés
+11.0,Sat,2024-10-26,17:30,Estadio de Gran Canaria,Las Palmas,Girona
+11.0,Sat,2024-10-26,21:00,Estadio Santiago Bernabéu,Real Madrid,Barcelona
+11.0,Sun,2024-10-27,14:00,Estadio Municipal de Butarque,Leganés,Celta Vigo
+11.0,Sun,2024-10-27,16:15,Coliseum Alfonso Pérez,Getafe,Valencia
+11.0,Sun,2024-10-27,18:30,Estadio Benito Villamarín,Betis,Atlético Madrid
+11.0,Sun,2024-10-27,21:00,Reale Arena,Real Sociedad,Osasuna
+11.0,Mon,2024-10-28,21:00,Estadi Mallorca Son Moix,Mallorca,Athletic Club
+12.0,Fri,2024-11-01,21:00,Estadio de Mendizorroza,Alavés,Mallorca
+12.0,Sat,2024-11-02,14:00,Estadio El Sadar,Osasuna,Valladolid
+12.0,Sat,2024-11-02,16:15,Estadi Municipal de Montilivi,Girona,Leganés
+12.0,Sun,2024-11-03,14:00,Riyadh Air Metropolitan Stadium,Atlético Madrid,Las Palmas
+12.0,Sun,2024-11-03,16:15,Estadi Olímpic Lluís Companys,Barcelona,Espanyol
+12.0,Sun,2024-11-03,18:30,Estadio Ramón Sánchez Pizjuán,Sevilla,Real Sociedad
+12.0,Sun,2024-11-03,21:00,San Mamés,Athletic Club,Betis
+12.0,Mon,2024-11-04,21:00,Estadio Abanca Balaídos,Celta Vigo,Getafe
+13.0,Fri,2024-11-08,21:00,Estadio del Rayo Vallecano,Rayo Vallecano,Las Palmas
+13.0,Sat,2024-11-09,14:00,Estadio Santiago Bernabéu,Real Madrid,Osasuna
+13.0,Sat,2024-11-09,16:15,Estadio de la Cerámica,Villarreal,Alavés
+13.0,Sat,2024-11-09,21:00,Estadio Municipal de Butarque,Leganés,Sevilla
+13.0,Sun,2024-11-10,14:00,Estadio Benito Villamarín,Betis,Celta Vigo
+13.0,Sun,2024-11-10,16:15,Estadi Mallorca Son Moix,Mallorca,Atlético Madrid
+13.0,Sun,2024-11-10,18:30,Coliseum Alfonso Pérez,Getafe,Girona
+13.0,Sun,2024-11-10,18:30,Estadio Municipal José Zorrilla,Valladolid,Athletic Club
+13.0,Sun,2024-11-10,21:00,Reale Arena,Real Sociedad,Barcelona
+14.0,Fri,2024-11-22,21:00,Coliseum Alfonso Pérez,Getafe,Valladolid
+14.0,Sat,2024-11-23,14:00,Estadio de Mestalla,Valencia,Betis
+14.0,Sat,2024-11-23,16:15,Riyadh Air Metropolitan Stadium,Atlético Madrid,Alavés
+14.0,Sat,2024-11-23,17:30,Estadio de Gran Canaria,Las Palmas,Mallorca
+14.0,Sat,2024-11-23,18:30,Estadi Municipal de Montilivi,Girona,Espanyol
+14.0,Sat,2024-11-23,21:00,Estadio Abanca Balaídos,Celta Vigo,Barcelona
+14.0,Sun,2024-11-24,14:00,Estadio El Sadar,Osasuna,Villarreal
+14.0,Sun,2024-11-24,16:15,Estadio Ramón Sánchez Pizjuán,Sevilla,Rayo Vallecano
+14.0,Sun,2024-11-24,18:30,Estadio Municipal de Butarque,Leganés,Real Madrid
+14.0,Sun,2024-11-24,21:00,San Mamés,Athletic Club,Real Sociedad
+15.0,Fri,2024-11-29,21:00,Estadi Mallorca Son Moix,Mallorca,Valencia
+15.0,Sat,2024-11-30,14:00,Estadi Olímpic Lluís Companys,Barcelona,Las Palmas
+15.0,Sat,2024-11-30,16:15,Estadio de Mendizorroza,Alavés,Leganés
+15.0,Sat,2024-11-30,18:30,RCDE Stadium,Espanyol,Celta Vigo
+15.0,Sat,2024-11-30,21:00,Estadio Municipal José Zorrilla,Valladolid,Atlético Madrid
+15.0,Sun,2024-12-01,14:00,Estadio de la Cerámica,Villarreal,Girona
+15.0,Sun,2024-12-01,16:15,Estadio Santiago Bernabéu,Real Madrid,Getafe
+15.0,Sun,2024-12-01,18:30,Estadio del Rayo Vallecano,Rayo Vallecano,Athletic Club
+15.0,Sun,2024-12-01,21:00,Reale Arena,Real Sociedad,Betis
+15.0,Mon,2024-12-02,21:00,Estadio Ramón Sánchez Pizjuán,Sevilla,Osasuna
+19.0,Tue,2024-12-03,19:00,Estadi Mallorca Son Moix,Mallorca,Barcelona
+19.0,Wed,2024-12-04,21:00,San Mamés,Athletic Club,Real Madrid
+16.0,Fri,2024-12-06,21:00,Estadio Abanca Balaídos,Celta Vigo,Mallorca
+16.0,Sat,2024-12-07,13:00,Estadio de Gran Canaria,Las Palmas,Valladolid
+16.0,Sat,2024-12-07,16:15,Estadio Benito Villamarín,Betis,Barcelona
+16.0,Sat,2024-12-07,18:30,Estadio de Mestalla,Valencia,Rayo Vallecano
+16.0,Sat,2024-12-07,21:00,Estadi Municipal de Montilivi,Girona,Real Madrid
+16.0,Sun,2024-12-08,14:00,Estadio Municipal de Butarque,Leganés,Real Sociedad
+16.0,Sun,2024-12-08,16:15,San Mamés,Athletic Club,Villarreal
+16.0,Sun,2024-12-08,18:30,Estadio El Sadar,Osasuna,Alavés
+16.0,Sun,2024-12-08,21:00,Riyadh Air Metropolitan Stadium,Atlético Madrid,Sevilla
+16.0,Mon,2024-12-09,21:00,Coliseum Alfonso Pérez,Getafe,Espanyol
+17.0,Fri,2024-12-13,21:00,Estadio Municipal José Zorrilla,Valladolid,Valencia
+17.0,Sat,2024-12-14,14:00,RCDE Stadium,Espanyol,Osasuna
+17.0,Sat,2024-12-14,16:15,Estadi Mallorca Son Moix,Mallorca,Girona
+17.0,Sat,2024-12-14,18:30,Estadio Ramón Sánchez Pizjuán,Sevilla,Celta Vigo
+17.0,Sat,2024-12-14,21:00,Estadio del Rayo Vallecano,Rayo Vallecano,Real Madrid
+17.0,Sun,2024-12-15,14:00,Riyadh Air Metropolitan Stadium,Atlético Madrid,Getafe
+17.0,Sun,2024-12-15,16:15,Estadio de Mendizorroza,Alavés,Athletic Club
+17.0,Sun,2024-12-15,18:30,Reale Arena,Real Sociedad,Las Palmas
+17.0,Sun,2024-12-15,18:30,Estadio de la Cerámica,Villarreal,Betis
+17.0,Sun,2024-12-15,21:00,Estadi Olímpic Lluís Companys,Barcelona,Leganés
+12.0,Wed,2024-12-18,21:30,Estadio de la Cerámica,Villarreal,Rayo Vallecano
+13.0,Wed,2024-12-18,21:30,RCDE Stadium,Espanyol,Valencia
+18.0,Fri,2024-12-20,21:00,Estadi Municipal de Montilivi,Girona,Valladolid
+18.0,Sat,2024-12-21,14:00,Coliseum Alfonso Pérez,Getafe,Mallorca
+18.0,Sat,2024-12-21,16:15,Estadio Abanca Balaídos,Celta Vigo,Real Sociedad
+18.0,Sat,2024-12-21,18:30,Estadio El Sadar,Osasuna,Athletic Club
+18.0,Sat,2024-12-21,21:00,Estadi Olímpic Lluís Companys,Barcelona,Atlético Madrid
+18.0,Sun,2024-12-22,14:00,Estadio de Mestalla,Valencia,Alavés
+18.0,Sun,2024-12-22,16:15,Estadio Santiago Bernabéu,Real Madrid,Sevilla
+18.0,Sun,2024-12-22,17:30,Estadio de Gran Canaria,Las Palmas,Espanyol
+18.0,Sun,2024-12-22,18:30,Estadio Municipal de Butarque,Leganés,Villarreal
+18.0,Sun,2024-12-22,21:00,Estadio Benito Villamarín,Betis,Rayo Vallecano
+12.0,Fri,2025-01-03,21:00,Estadio de Mestalla,Valencia,Real Madrid
+19.0,Fri,2025-01-10,21:00,Estadio del Rayo Vallecano,Rayo Vallecano,Celta Vigo
+19.0,Sat,2025-01-11,14:00,Estadio de Mendizorroza,Alavés,Girona
+19.0,Sat,2025-01-11,16:15,Estadio Municipal José Zorrilla,Valladolid,Betis
+19.0,Sat,2025-01-11,18:30,RCDE Stadium,Espanyol,Leganés
+19.0,Sat,2025-01-11,21:00,Estadio Ramón Sánchez Pizjuán,Sevilla,Valencia
+19.0,Sun,2025-01-12,13:00,Estadio de Gran Canaria,Las Palmas,Getafe
+19.0,Sun,2025-01-12,16:15,Riyadh Air Metropolitan Stadium,Atlético Madrid,Osasuna
+19.0,Mon,2025-01-13,21:00,Reale Arena,Real Sociedad,Villarreal
+20.0,Fri,2025-01-17,21:00,RCDE Stadium,Espanyol,Valladolid
+20.0,Sat,2025-01-18,14:00,Estadio El Sadar,Osasuna,Rayo Vallecano
+20.0,Sat,2025-01-18,16:15,Estadio Municipal de Butarque,Leganés,Atlético Madrid
+20.0,Sat,2025-01-18,18:30,Estadio Abanca Balaídos,Celta Vigo,Athletic Club
+20.0,Sat,2025-01-18,21:00,Coliseum Alfonso Pérez,Getafe,Barcelona
+20.0,Sun,2025-01-19,14:00,Estadio Benito Villamarín,Betis,Alavés
+20.0,Sun,2025-01-19,16:15,Estadio Santiago Bernabéu,Real Madrid,Las Palmas
+20.0,Sun,2025-01-19,18:30,Estadio de Mestalla,Valencia,Real Sociedad
+20.0,Sun,2025-01-19,21:00,Estadi Municipal de Montilivi,Girona,Sevilla
+20.0,Mon,2025-01-20,21:00,Estadio de la Cerámica,Villarreal,Mallorca
+21.0,Fri,2025-01-24,20:00,Estadio de Gran Canaria,Las Palmas,Osasuna
+21.0,Sat,2025-01-25,14:00,Estadi Mallorca Son Moix,Mallorca,Betis
+21.0,Sat,2025-01-25,16:15,Riyadh Air Metropolitan Stadium,Atlético Madrid,Villarreal
+21.0,Sat,2025-01-25,18:30,Estadio Ramón Sánchez Pizjuán,Sevilla,Espanyol
+21.0,Sat,2025-01-25,21:00,Estadio Municipal José Zorrilla,Valladolid,Real Madrid
+21.0,Sun,2025-01-26,14:00,Estadio del Rayo Vallecano,Rayo Vallecano,Girona
+21.0,Sun,2025-01-26,16:15,Reale Arena,Real Sociedad,Getafe
+21.0,Sun,2025-01-26,18:30,San Mamés,Athletic Club,Leganés
+21.0,Sun,2025-01-26,21:00,Estadi Olímpic Lluís Companys,Barcelona,Valencia
+21.0,Mon,2025-01-27,21:00,Estadio de Mendizorroza,Alavés,Celta Vigo
+22.0,Sun,2025-02-02,,Estadio de la Cerámica,Villarreal,Valladolid
+22.0,Sun,2025-02-02,,Estadi Municipal de Montilivi,Girona,Las Palmas
+22.0,Sun,2025-02-02,,Riyadh Air Metropolitan Stadium,Atlético Madrid,Mallorca
+22.0,Sun,2025-02-02,,Estadio El Sadar,Osasuna,Real Sociedad
+22.0,Sun,2025-02-02,,Estadio Municipal de Butarque,Leganés,Rayo Vallecano
+22.0,Sun,2025-02-02,,Estadi Olímpic Lluís Companys,Barcelona,Alavés
+22.0,Sun,2025-02-02,,Estadio de Mestalla,Valencia,Celta Vigo
+22.0,Sun,2025-02-02,,Coliseum Alfonso Pérez,Getafe,Sevilla
+22.0,Sun,2025-02-02,,RCDE Stadium,Espanyol,Real Madrid
+22.0,Sun,2025-02-02,,Estadio Benito Villamarín,Betis,Athletic Club
+23.0,Sun,2025-02-09,,Estadio de Gran Canaria,Las Palmas,Villarreal
+23.0,Sun,2025-02-09,,Reale Arena,Real Sociedad,Espanyol
+23.0,Sun,2025-02-09,,Estadio de Mendizorroza,Alavés,Getafe
+23.0,Sun,2025-02-09,,Estadio Santiago Bernabéu,Real Madrid,Atlético Madrid
+23.0,Sun,2025-02-09,,Estadio Ramón Sánchez Pizjuán,Sevilla,Barcelona
+23.0,Sun,2025-02-09,,Estadi Mallorca Son Moix,Mallorca,Osasuna
+23.0,Sun,2025-02-09,,Estadio del Rayo Vallecano,Rayo Vallecano,Valladolid
+23.0,Sun,2025-02-09,,Estadio Abanca Balaídos,Celta Vigo,Betis
+23.0,Sun,2025-02-09,,Estadio San Mamés (1913),Athletic Club,Girona
+23.0,Sun,2025-02-09,,Estadio de Mestalla,Valencia,Leganés
+24.0,Sun,2025-02-16,,,Mallorca,Las Palmas
+24.0,Sun,2025-02-16,,,Girona,Getafe
+24.0,Sun,2025-02-16,,,Leganés,Alavés
+24.0,Sun,2025-02-16,,,Villarreal,Valencia
+24.0,Sun,2025-02-16,,,Barcelona,Rayo Vallecano
+24.0,Sun,2025-02-16,,,Osasuna,Real Madrid
+24.0,Sun,2025-02-16,,,Espanyol,Athletic Club
+24.0,Sun,2025-02-16,,,Atlético Madrid,Celta Vigo
+24.0,Sun,2025-02-16,,,Betis,Real Sociedad
+24.0,Sun,2025-02-16,,,Valladolid,Sevilla
+25.0,Sun,2025-02-23,,,Real Sociedad,Leganés
+25.0,Sun,2025-02-23,,,Celta Vigo,Osasuna
+25.0,Sun,2025-02-23,,,Sevilla,Mallorca
+25.0,Sun,2025-02-23,,,Rayo Vallecano,Villarreal
+25.0,Sun,2025-02-23,,,Las Palmas,Barcelona
+25.0,Sun,2025-02-23,,,Getafe,Betis
+25.0,Sun,2025-02-23,,,Alavés,Espanyol
+25.0,Sun,2025-02-23,,,Real Madrid,Girona
+25.0,Sun,2025-02-23,,,Valencia,Atlético Madrid
+25.0,Sun,2025-02-23,,,Athletic Club,Valladolid
+26.0,Sun,2025-03-02,,,Osasuna,Valencia
+26.0,Sun,2025-03-02,,,Barcelona,Real Sociedad
+26.0,Sun,2025-03-02,,,Atlético Madrid,Athletic Club
+26.0,Sun,2025-03-02,,,Rayo Vallecano,Sevilla
+26.0,Sun,2025-03-02,,,Girona,Celta Vigo
+26.0,Sun,2025-03-02,,,Villarreal,Espanyol
+26.0,Sun,2025-03-02,,,Mallorca,Alavés
+26.0,Sun,2025-03-02,,,Valladolid,Las Palmas
+26.0,Sun,2025-03-02,,,Leganés,Getafe
+26.0,Sun,2025-03-02,,,Betis,Real Madrid
+27.0,Sun,2025-03-09,,,Getafe,Atlético Madrid
+27.0,Sun,2025-03-09,,,Espanyol,Girona
+27.0,Sun,2025-03-09,,,Athletic Club,Mallorca
+27.0,Sun,2025-03-09,,,Valencia,Valladolid
+27.0,Sun,2025-03-09,,,Betis,Las Palmas
+27.0,Sun,2025-03-09,,,Barcelona,Osasuna
+27.0,Sun,2025-03-09,,,Celta Vigo,Leganés
+27.0,Sun,2025-03-09,,,Real Madrid,Rayo Vallecano
+27.0,Sun,2025-03-09,,,Real Sociedad,Sevilla
+27.0,Sun,2025-03-09,,,Alavés,Villarreal
+28.0,Sun,2025-03-16,,,Valladolid,Celta Vigo
+28.0,Sun,2025-03-16,,,Leganés,Betis
+28.0,Sun,2025-03-16,,,Villarreal,Real Madrid
+28.0,Sun,2025-03-16,,,Rayo Vallecano,Real Sociedad
+28.0,Sun,2025-03-16,,,Atlético Madrid,Barcelona
+28.0,Sun,2025-03-16,,,Las Palmas,Alavés
+28.0,Sun,2025-03-16,,,Mallorca,Espanyol
+28.0,Sun,2025-03-16,,,Sevilla,Athletic Club
+28.0,Sun,2025-03-16,,,Osasuna,Getafe
+28.0,Sun,2025-03-16,,,Girona,Valencia
+29.0,Sun,2025-03-30,,,Real Madrid,Leganés
+29.0,Sun,2025-03-30,,,Celta Vigo,Las Palmas
+29.0,Sun,2025-03-30,,,Valencia,Mallorca
+29.0,Sun,2025-03-30,,,Betis,Sevilla
+29.0,Sun,2025-03-30,,,Espanyol,Atlético Madrid
+29.0,Sun,2025-03-30,,,Barcelona,Girona
+29.0,Sun,2025-03-30,,,Athletic Club,Osasuna
+29.0,Sun,2025-03-30,,,Real Sociedad,Valladolid
+29.0,Sun,2025-03-30,,,Getafe,Villarreal
+29.0,Sun,2025-03-30,,,Alavés,Rayo Vallecano
+30.0,Sun,2025-04-06,,,Sevilla,Atlético Madrid
+30.0,Sun,2025-04-06,,,Real Madrid,Valencia
+30.0,Sun,2025-04-06,,,Leganés,Osasuna
+30.0,Sun,2025-04-06,,,Villarreal,Athletic Club
+30.0,Sun,2025-04-06,,,Barcelona,Betis
+30.0,Sun,2025-04-06,,,Las Palmas,Real Sociedad
+30.0,Sun,2025-04-06,,,Mallorca,Celta Vigo
+30.0,Sun,2025-04-06,,,Valladolid,Getafe
+30.0,Sun,2025-04-06,,,Girona,Alavés
+30.0,Sun,2025-04-06,,,Rayo Vallecano,Espanyol
+31.0,Sun,2025-04-13,,,Betis,Villarreal
+31.0,Sun,2025-04-13,,,Valencia,Sevilla
+31.0,Sun,2025-04-13,,,Celta Vigo,Espanyol
+31.0,Sun,2025-04-13,,,Leganés,Barcelona
+31.0,Sun,2025-04-13,,,Osasuna,Girona
+31.0,Sun,2025-04-13,,,Getafe,Las Palmas
+31.0,Sun,2025-04-13,,,Athletic Club,Rayo Vallecano
+31.0,Sun,2025-04-13,,,Alavés,Real Madrid
+31.0,Sun,2025-04-13,,,Real Sociedad,Mallorca
+31.0,Sun,2025-04-13,,,Atlético Madrid,Valladolid
+32.0,Sun,2025-04-20,,,Girona,Betis
+32.0,Sun,2025-04-20,,,Mallorca,Leganés
+32.0,Sun,2025-04-20,,,Espanyol,Getafe
+32.0,Sun,2025-04-20,,,Villarreal,Real Sociedad
+32.0,Sun,2025-04-20,,,Valladolid,Osasuna
+32.0,Sun,2025-04-20,,,Rayo Vallecano,Valencia
+32.0,Sun,2025-04-20,,,Las Palmas,Atlético Madrid
+32.0,Sun,2025-04-20,,,Barcelona,Celta Vigo
+32.0,Sun,2025-04-20,,,Real Madrid,Athletic Club
+32.0,Sun,2025-04-20,,,Sevilla,Alavés
+33.0,Wed,2025-04-23,,,Leganés,Girona
+33.0,Wed,2025-04-23,,,Alavés,Real Sociedad
+33.0,Wed,2025-04-23,,,Valencia,Espanyol
+33.0,Wed,2025-04-23,,,Celta Vigo,Villarreal
+33.0,Wed,2025-04-23,,,Osasuna,Sevilla
+33.0,Wed,2025-04-23,,,Getafe,Real Madrid
+33.0,Wed,2025-04-23,,,Athletic Club,Las Palmas
+33.0,Wed,2025-04-23,,,Atlético Madrid,Rayo Vallecano
+33.0,Wed,2025-04-23,,,Barcelona,Mallorca
+33.0,Wed,2025-04-23,,,Betis,Valladolid
+34.0,Sun,2025-05-04,,,Real Madrid,Celta Vigo
+34.0,Sun,2025-05-04,,,Rayo Vallecano,Getafe
+34.0,Sun,2025-05-04,,,Sevilla,Leganés
+34.0,Sun,2025-05-04,,,Girona,Mallorca
+34.0,Sun,2025-05-04,,,Villarreal,Osasuna
+34.0,Sun,2025-05-04,,,Alavés,Atlético Madrid
+34.0,Sun,2025-05-04,,,Valladolid,Barcelona
+34.0,Sun,2025-05-04,,,Las Palmas,Valencia
+34.0,Sun,2025-05-04,,,Espanyol,Betis
+34.0,Sun,2025-05-04,,,Real Sociedad,Athletic Club
+35.0,Sun,2025-05-11,,,Betis,Osasuna
+35.0,Sun,2025-05-11,,,Celta Vigo,Sevilla
+35.0,Sun,2025-05-11,,,Girona,Villarreal
+35.0,Sun,2025-05-11,,,Athletic Club,Alavés
+35.0,Sun,2025-05-11,,,Las Palmas,Rayo Vallecano
+35.0,Sun,2025-05-11,,,Atlético Madrid,Real Sociedad
+35.0,Sun,2025-05-11,,,Mallorca,Valladolid
+35.0,Sun,2025-05-11,,,Valencia,Getafe
+35.0,Sun,2025-05-11,,,Barcelona,Real Madrid
+35.0,Sun,2025-05-11,,,Leganés,Espanyol
+36.0,Wed,2025-05-14,,,Sevilla,Las Palmas
+36.0,Wed,2025-05-14,,,Real Madrid,Mallorca
+36.0,Wed,2025-05-14,,,Valladolid,Girona
+36.0,Wed,2025-05-14,,,Espanyol,Barcelona
+36.0,Wed,2025-05-14,,,Getafe,Athletic Club
+36.0,Wed,2025-05-14,,,Rayo Vallecano,Betis
+36.0,Wed,2025-05-14,,,Alavés,Valencia
+36.0,Wed,2025-05-14,,,Osasuna,Atlético Madrid
+36.0,Wed,2025-05-14,,,Villarreal,Leganés
+36.0,Wed,2025-05-14,,,Real Sociedad,Celta Vigo
+37.0,Sun,2025-05-18,,,Mallorca,Getafe
+37.0,Sun,2025-05-18,,,Atlético Madrid,Betis
+37.0,Sun,2025-05-18,,,Celta Vigo,Rayo Vallecano
+37.0,Sun,2025-05-18,,,Real Sociedad,Girona
+37.0,Sun,2025-05-18,,,Las Palmas,Leganés
+37.0,Sun,2025-05-18,,,Valladolid,Alavés
+37.0,Sun,2025-05-18,,,Sevilla,Real Madrid
+37.0,Sun,2025-05-18,,,Barcelona,Villarreal
+37.0,Sun,2025-05-18,,,Osasuna,Espanyol
+37.0,Sun,2025-05-18,,,Valencia,Athletic Club
+38.0,Sun,2025-05-25,,,Leganés,Valladolid
+38.0,Sun,2025-05-25,,,Real Madrid,Real Sociedad
+38.0,Sun,2025-05-25,,,Athletic Club,Barcelona
+38.0,Sun,2025-05-25,,,Getafe,Celta Vigo
+38.0,Sun,2025-05-25,,,Espanyol,Las Palmas
+38.0,Sun,2025-05-25,,,Betis,Valencia
+38.0,Sun,2025-05-25,,,Villarreal,Sevilla
+38.0,Sun,2025-05-25,,,Girona,Atlético Madrid
+38.0,Sun,2025-05-25,,,Alavés,Osasuna
+38.0,Sun,2025-05-25,,,Rayo Vallecano,Mallorca
